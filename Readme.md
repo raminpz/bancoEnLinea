@@ -10,4 +10,3 @@ El banco en línea que se va a crear es una prueba de concepto, que determinará
 - Proporcionará un extracto de cuenta con los datos del cliente y un saldo final.
 - Expondrá una API web a través de un punto de conexión para imprimir un extracto de cuenta.
 
-Lo crearemos juntos, así que, por el momento, no se preocupe demasiado por los detalles.
